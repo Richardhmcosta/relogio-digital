@@ -23,6 +23,6 @@
 
 ```bash
 # Clonar repositório
-$ git clone https://github.com/Richardhmcosta/todoist-electronjs
+$ git clone https://github.com/Richardhmcosta/relogio-digital
 
 ```
